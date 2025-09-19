@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    double e,x,y;
+    double x,y;
      printf("x= ");
     scanf("%lf", &x); 
     printf("y= "); 
@@ -21,6 +21,7 @@ int main(void)
    printf("%+.5f\n", a);
    printf("%+.5e\n", b);
    return 0;
+
 
 
 }
